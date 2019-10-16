@@ -16,6 +16,7 @@
         <relativePath/>
     </parent>
 
+
     <modules>
         <!--<module>eureka-server</module>-->
         <!--<module>service-hi</module>-->
@@ -23,6 +24,7 @@
         <!--<module>serice-feign</module>-->
         <!--<module>service-zuul</module>-->
         <!--<module>config-server</module>-->
+        <module>springboot-web-demo</module>
     </modules>
 
     <properties>
